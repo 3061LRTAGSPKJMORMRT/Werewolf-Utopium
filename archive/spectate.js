@@ -10,7 +10,7 @@ const fn = require('/home/utopium/wwou/util/fn.js'),
       roles = require("/home/utopium/wwou/util/roles.js")
 
 module.exports = {
-  name: "idiotspectate",
+  name: "spectate",
   aliases: ["dontusethislmfao"],
   run: async (client, message, args, shared) => {
     if (
